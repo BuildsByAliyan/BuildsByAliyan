@@ -19,6 +19,16 @@
 
 <img src="./assets/id-dashboard.svg?v=6" width="100%" alt="Aliyan Saleem builder pass and portfolio snapshot, October 2026." />
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuildsByAliyan/BuildsByAliyan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BuildsByAliyan/BuildsByAliyan/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/BuildsByAliyan/BuildsByAliyan/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <img src="./assets/connect.svg?v=6" width="100%" alt="Let's connect — LinkedIn, Instagram, Pinterest and YouTube." />
 
 <p align="center">
