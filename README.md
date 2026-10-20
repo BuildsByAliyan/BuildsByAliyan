@@ -6,20 +6,24 @@
 
 <img src="./assets/stack.svg?v=6" width="100%" alt="Tech stack: JavaScript, TypeScript, Python, React, Tailwind CSS, Node.js, Flutter, Figma, AI tools." />
 
-### Things I've built
+<h3 align="center">Featured Projects</h3>
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [**Trend In Law**](https://buildsbyaliyan.github.io/trendinlaw-ecommerce/) · [Repo](https://github.com/BuildsByAliyan/trendinlaw-ecommerce) | E-commerce platform with full shopping flow | HTML, CSS, JS |
-| [**Libaas Studio**](https://buildsbyaliyan.github.io/libas-studio/) · [Repo](https://github.com/BuildsByAliyan/libas-studio) | Modern fashion storefront | HTML, CSS, JS |
-| [**Smart QR Hub**](https://buildsbyaliyan.github.io/Smart-QR-Generator/) · [Repo](https://github.com/BuildsByAliyan/Smart-QR-Generator) | QR code generator with customization | React |
-| [**GlobeX Converter**](https://buildsbyaliyan.github.io/GlobeX-Converter/) · [Repo](https://github.com/BuildsByAliyan/GlobeX-Converter) | Currency and unit converter | JavaScript |
-| [**SlideAuthPage**](https://buildsbyaliyan.github.io/SlideAuthPage/) · [Repo](https://github.com/BuildsByAliyan/SlideAuthPage) | Animated sliding auth page UI | HTML, CSS, JS |
-| [**AliyanCollection**](https://buildsbyaliyan.github.io/AliyanCollection-Ecommerce/) · [Repo](https://github.com/BuildsByAliyan/AliyanCollection-Ecommerce) | E-commerce storefront concept | HTML, CSS, JS |
+<p align="center"><sub>Production-ready web apps, designed and built end to end.</sub></p>
+
+<div align="center">
+
+| Project | Overview | Tech Stack |
+| :---: | :---: | :---: |
+| [**Trend In Law**](https://buildsbyaliyan.github.io/trendinlaw-ecommerce/) · [Source](https://github.com/BuildsByAliyan/trendinlaw-ecommerce) | Full-featured e-commerce platform with a complete shopping flow | HTML, CSS, JS |
+| [**Libaas Studio**](https://buildsbyaliyan.github.io/libas-studio/) · [Source](https://github.com/BuildsByAliyan/libas-studio) | Modern, conversion-focused fashion storefront | HTML, CSS, JS |
+| [**Smart QR Hub**](https://buildsbyaliyan.github.io/Smart-QR-Generator/) · [Source](https://github.com/BuildsByAliyan/Smart-QR-Generator) | Customizable QR code generator with a polished UX | React |
+| [**GlobeX Converter**](https://buildsbyaliyan.github.io/GlobeX-Converter/) · [Source](https://github.com/BuildsByAliyan/GlobeX-Converter) | Fast, accurate currency and unit converter | JavaScript |
+| [**SlideAuthPage**](https://buildsbyaliyan.github.io/SlideAuthPage/) · [Source](https://github.com/BuildsByAliyan/SlideAuthPage) | Animated sliding authentication UI with smooth transitions | HTML, CSS, JS |
+| [**AliyanCollection**](https://buildsbyaliyan.github.io/AliyanCollection-Ecommerce/) · [Source](https://github.com/BuildsByAliyan/AliyanCollection-Ecommerce) | Elegant e-commerce storefront concept | HTML, CSS, JS |
+
+</div>
 
 <img src="./assets/id-dashboard.svg?v=6" width="100%" alt="Aliyan Saleem builder pass and portfolio snapshot, October 2026." />
-
-### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
